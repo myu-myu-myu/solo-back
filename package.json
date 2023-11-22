@@ -11,7 +11,7 @@
     "back": "knex migrate:rollback ",
     "seed": "knex seed:run         ",
     "build": "npm install",
-    "start": "node ./api.js"
+    "start": "node ./index.js"
   },
   "author": "",
   "license": "ISC",
