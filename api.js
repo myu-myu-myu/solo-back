@@ -32,10 +32,15 @@ const setupServer = () => {
   });
 
   app.get('/api/:tid', async (req, res) => {
-    const _tid = req.params.tid;
-    const result = await knex(`table${_tid}`).select().orderBy('id');
-    console.log('GET result : ', _tid, result);
-    res.status(200).send(result);
+    try {
+      const _tid = req.params.tid;
+      const result = await knex(`table${_tid}`).select().orderBy('id');
+      console.log('GET result : ', _tid, result);
+      res.status(200).send(result);
+    } catch (error) {
+      console.error(error.message);
+      res.status(444).send(result);
+    }
   });
 
   app.post('/api/:tid', async (req, res) => {
