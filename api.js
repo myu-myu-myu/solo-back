@@ -27,7 +27,8 @@ const setupServer = () => {
   // app.use('/', express.static(__dirname + '/browser/index'));
   app.get('/', (req, res) => {
     // res.setHeader('Access-Control-Allow-Origin', origin);
-    res.send('API is running..');
+    console.log('GET request is comming...');
+    res.send('API is running...');
   });
 
   app.get('/api/:tid', async (req, res) => {

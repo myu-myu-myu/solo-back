@@ -5,7 +5,7 @@ window.addEventListener('load', async () => {
   const DOM4 = document.getElementById('url');
 
   const getAPI = async () => {
-    const r = await fetch('/api2')
+    const r = await fetch('/api/2')
       .then((r) => r.text())
       .then((r) => JSON.parse(r))
       .catch((err) => console.error('!!!', err));
