@@ -1,8 +1,9 @@
 const setupServer = () => {
-  const knex = require('./src/db/knex');
+  const knex = require('./knex');
   const express = require('express');
   const app = express();
   require('dotenv').config();
+  console.log('process.env : ', process.env);
 
   // app.use((req, res, next) => {
   //   const origin = req.headers.origin;

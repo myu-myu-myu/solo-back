@@ -8,13 +8,13 @@ module.exports = {
     client: 'pg',
     connection: {
       user: process.env.POSTGRES_USER || 'user',
-      database: process.env.POSTGRES_DB || 'solo_yczr',
+      database: process.env.POSTGRES_DB || 'solo',
     },
     migrations: {
-      directory: './table/migrations',
+      directory: './server/db/migrations',
     },
     seeds: {
-      directory: './table/seeds',
+      directory: './server/db/seeds',
     },
   },
 
@@ -23,10 +23,10 @@ module.exports = {
     connection: {
       database: process.env.DATABASE_URL,
       migrations: {
-        directory: './table/migrations',
+        directory: './server/db/migrations',
       },
       seeds: {
-        directory: './table/seeds',
+        directory: './server/db/seeds',
       },
     },
   },

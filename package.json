@@ -6,10 +6,10 @@
   "scripts": {
     "dev": "nodemon ./api.js",
     "test": "mocha ./src/test --exit",
-    "make": "knex migrate:make     --knexfile ./db/knexfile.js",
-    "late": "knex migrate:latest   --knexfile ./db/knexfile.js",
-    "back": "knex migrate:rollback --knexfile ./db/knexfile.js",
-    "seed": "knex seed:run         --knexfile ./db/knexfile.js",
+    "make": "knex migrate:make     ",
+    "late": "knex migrate:latest   ",
+    "back": "knex migrate:rollback ",
+    "seed": "knex seed:run         ",
     "build": "npm install",
     "start": "node ./api.js"
   },
