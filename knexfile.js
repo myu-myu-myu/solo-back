@@ -21,8 +21,8 @@ module.exports = {
   production: {
     client: 'pg',
     connection: {
-      host: process.env.RENDER_EXTERNAL_URL,
-      port: process.env.PORT,
+      host: 'dpg-clehuok15k1s73acr97g-a',
+      port: '5432',
       database: process.env.DATABASE_URL,
       migrations: {
         directory: './migrations',
