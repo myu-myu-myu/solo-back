@@ -1,0 +1,619 @@
+[
+  {
+    "week": "1",
+    "type": "doc",
+    "title": "共通トラックへようこそ",
+    "url": "https://docs.google.com/presentation/d/e/2PACX-1vT_X1-EK4liQgJpnEId0vM77hSoRfmZT3ZX6cmvESMX3aYqFdbItKd0_6B5KV4qp9navpHxjxM3cAFo/pub?start=false&loop=false&delayms=3000&slide=id.g286f13676d3_0_433"
+  },
+  {
+    "week": "1",
+    "type": "doc",
+    "title": "折紙ワークショップ",
+    "url": "https://docs.google.com/presentation/d/e/2PACX-1vT_zKnD03zLiGzhaNCFNascAWO2vdOJa0x6RNi2aX2qFzfYTDICuIaovCjnGsAZMue1KW_mao5I1GX9/pub?start=false&loop=false&delayms=3000&slide=id.g2457e4b35d7_1_30"
+  },
+  {
+    "week": "1",
+    "type": "doc",
+    "title": "すべての人のためのHTML",
+    "url": "https://docs.google.com/presentation/d/e/2PACX-1vTDvjjGSqry5de4rvTk4Qr7yJFWfLzVUY4Uniay5v0h63wSDbByKfHAI8a360K76oTPXDf89JMLdyHr/pub?slide=id.g20f1d5635ce_0_139",
+    "goal": "HTML の構造を理解する:DOCTYPE宣言とは, <html><head><body>それぞれに書くべきことは, self-closing tagとは. セマンティックマークアップを知る:セマンティックマークアップの利点3つ, 抑えて欲しいタグ:<main><article><aside><section><header><footer><nav>"
+  },
+  {
+    "week": "1",
+    "type": "doc",
+    "title": "HTML CSS アンチパターン",
+    "url": "https://docs.google.com/presentation/d/e/2PACX-1vT2_XLsXR49eBzh7SKWU9AZ2Oax4GpETsptVbAatTa-eRZuN4xZONN7E9MQY0Kc40joY29g6mVVSueH/pub?slide=id.g123ce211cec_0_2",
+    "goal": "HTMLの悪い例を知る:属性を忘れる, ブロック属性のネスト, インデントがない, 不要な大文字. CSSの悪い例を知る:不必要な重複, インライン要素の明示的なサイズ指定, 不明瞭なネーミングルール, 同じクラス名で異なるタグタイプ"
+  },
+  {
+    "week": "1",
+    "type": "precourse",
+    "title": "basefook",
+    "url": "https://github.com/myu-myu-myu/Shingoki",
+    "memo": "チーム信号機でXっぽいソーシャルメディアを作成!"
+  },
+  {
+    "week": "1",
+    "type": "doc",
+    "title": "フィードバックの伝え方 & 受け方",
+    "url": "https://docs.google.com/presentation/d/e/2PACX-1vQH74bYQdI-bRaz1QS5xogfplMuPzlEoox7irOelEisBPLzBlH34d0pZLjIeHeDJw9Xl1Sp9FS_2f7A/pub?slide=id.g729f89c1c0_1_1068"
+  },
+  {
+    "week": "2",
+    "type": "doc",
+    "title": "ブートキャンプへようこそ",
+    "url": "https://docs.google.com/presentation/d/e/2PACX-1vSOdsV8nvpowToqgKdsWRovOVSsRs1sYAf2SU8Ym4-MyjtJ4rx06LeHvKp3QwiNxJjjyyc-8tsqcGx8/pub?slide=id.g28475adb108_0_1067"
+  },
+  {
+    "week": "2",
+    "type": "doc",
+    "title": "リモートランスルー",
+    "url": "https://docs.google.com/presentation/d/e/2PACX-1vRqIYctI7usA2M7yIHCVNsSKyIdUM-fg6Jq6gOxBbSJMqFiI3uKSUwf4D_jDWvcdKwJL-PCMd0BiarJ/pub?slide=id.g11941fa0be2_1_140"
+  },
+  {
+    "week": "2",
+    "type": "doc",
+    "title": "ペアプログラミング",
+    "url": "https://docs.google.com/presentation/d/e/2PACX-1vTZaZb6hKhqKtKSrDCuSpMNhoO8HNm5I8ogayaVQ-FpD1G_ZGlFuhd8yMYbRK5WeKbtnJDUMtPZJNw8/pub?slide=id.g729f89c1c0_1_1068",
+    "goal": "共同開発に必要なバージョン管理の基礎:LiveShareを利用できる, gitの役割を理解する, forkからPRまでの一連の流れを知る, git clone/git status/git add/git commit/git push, Pull Request, conflict"
+  },
+  {
+    "week": "2",
+    "type": "doc",
+    "title": "Get to know your Mac",
+    "url": "https://dig.codechrysalis.io/view/dig-btc-5/6724/i500tfqyfmqs",
+    "goal": "ターミナルやコマンドラインの基本を習得する:cd/ls/code ./pwd/rm-rf/touch. 様々なショートカットキーを利用できる"
+  },
+  {
+    "week": "1",
+    "type": "ref",
+    "title": "macOS terminal(zsh) Youtube",
+    "url": "https://youtu.be/ogWoUU2DXBU?si=RncZdlEi5SaLz1ho"
+  },
+  {
+    "week": "2",
+    "type": "doc",
+    "title": "ライトニングトーク",
+    "url": "https://docs.google.com/presentation/d/e/2PACX-1vRSpdXiTRAmtOYDI9c6kIvfUdR_b14syOdPsiiNil5kFdDxpQbBhFqCKGovgUulh31Ubh29Y3u8SINt/pub?slide=id.g729f89c1c0_1_1068"
+  },
+  {
+    "week": "2",
+    "type": "precourse",
+    "title": "hatch",
+    "url": "https://github.com/myu-myu-myu/dig-imr-5-precourse.hatch-dig",
+    "memo": "Githubの基本動作に慣れる!"
+  },
+  {
+    "week": "2",
+    "type": "assessment",
+    "title": "shell & Git クイズ",
+    "url": "https://docs.google.com/forms/d/e/1FAIpQLSflY8rYZtl0NVQF6xmaRl56wQgQVl2ISJXBD6ANri5ZlMSJUQ/viewform"
+  },
+  {
+    "week": "2",
+    "type": "doc",
+    "title": "コードスタイル",
+    "url": "https://docs.google.com/presentation/d/e/2PACX-1vTpJ38OPmEEgSqqF6veDXIgRHnhAY8hkk7msMiasLBMVqU1U0L1Uz5hAxL3RVSjWS3tw-UQxcdKRWQs/pub?slide=id.g123cd552189_0_0"
+  },
+  {
+    "week": "2",
+    "type": "doc",
+    "title": "アロー関数",
+    "url": "https://docs.google.com/presentation/d/e/2PACX-1vRtRdpq0G8rmM5Ku288lbhNjrg_ylURAcCazWEFoR3pxghFAFH0iICmbp4mJo3fxPskRruFH7Ux37FO/pub?slide=id.g20e786cc176_0_0",
+    "goal": "簡潔なコードスタイルでコードを書くことができる:アロー関数を使える, 高階関数を利用する(map/filter/reduce)"
+  },
+  {
+    "week": "2",
+    "type": "precourse",
+    "title": "pokemon",
+    "url": "https://github.com/myu-myu-myu/dig-imr-5-precourse.pokemon-dig",
+    "memo": "Pokemonデータを整形!"
+  },
+  {
+    "week": "2",
+    "type": "doc",
+    "title": "クロージャとスコープ",
+    "url": "https://docs.google.com/presentation/d/e/2PACX-1vSSRGaK4T68EKhZKese1CUg0s1D5J4PCxiZl0lPB-vhT3AWEz44OITYsb1N8zs-Ciqqf8QhYLWAx7St/pub?slide=id.g123c3ddcb27_0_129",
+    "goal": "スコープの概念を理解する:グローバルスコープ, ローカルスコープ, 関数スコープ, ブロックスコープ. クロージャの概念を理解する:プライベート変数, レキシカルスコープ, クロージャの利点とは, どうしてuse strictを使う必要があるのか, 即時実行関数とは"
+  },
+  {
+    "week": "2",
+    "type": "precourse",
+    "title": "closures 1",
+    "url": "https://github.com/myu-myu-myu/dig-imr-5-precourse.closures-part-1-dig",
+    "memo": "?"
+  },
+  {
+    "week": "2",
+    "type": "doc",
+    "title": "デバッグとエラーの検出",
+    "url": "https://docs.google.com/presentation/d/e/2PACX-1vTgFZMMO_QghExAiSuBwypyjO9nEzCSzhA-GT377dS98CS5OewRbWL7Ly6rmOWxRWuQMc10RJ6XMbYI/pub?slide=id.g123ac46e231_0_0",
+    "goal": "テストを読み、コードを実装することができる:Jasmineとは, describe/it/expect. GitHub 操作に慣れる:適切なタイミングでcommitする, 明瞭なコミットメッセージを書ける, 適切なPRタイトル, co-commitできる. メソッドへの理解を深める:slice/splice/Array.isArray/indexOf. Windowオブジェクトを理解する:グローバル変数. 高階関数を使いこなす:map/filter/reduce/forEach. 様々なgitコマンドを利用する・知る:git pull/git reset/git logなど"
+  },
+  {
+    "week": "2",
+    "type": "precourse",
+    "title": "loscore",
+    "url": "https://github.com/myu-myu-myu/dig-imr-5-precourse.loscore-dig",
+    "memo": "handmade functions..."
+  },
+  {
+    "week": "2",
+    "type": "doc",
+    "title": "this",
+    "url": "https://docs.google.com/presentation/d/e/2PACX-1vSTkUx6iYcgwsc81-M3OfIlTOqtfKozqpDQMC5SlaCNb5RC3UCtBOhEemTePtlJJRhLCqremXrLR1SW/pub?slide=id.p1",
+    "goal": "this の概念と使い方の理解:デフォルトのthisが指すもの, メソッドの中でthisが指すもの, ドットの左側ルール, アロー関数とthisの関係. テストを自分で書いてパスさせることができる"
+  },
+  {
+    "week": "2",
+    "type": "precourse",
+    "title": "closures 2",
+    "url": "https://github.com/myu-myu-myu/dig-imr-5-precourse.closures-part-2-dig",
+    "memo": "銀行口座の取引履歴"
+  },
+  {
+    "week": "2",
+    "type": "ref",
+    "title": "変数スコープ・クロージャ JAVASCRIPT.INFO",
+    "url": "https://ja.javascript.info/closure"
+  },
+  {
+    "week": "3",
+    "type": "assessment",
+    "title": "assessment-1",
+    "url": "https://github.com/codechrysalis/dig-imr-5-dig.assessment-1",
+    "memo": "高階関数の使い方のテスト"
+  },
+  {
+    "week": "3",
+    "type": "doc",
+    "title": "Class 1",
+    "url": "https://docs.google.com/presentation/d/e/2PACX-1vTYivZk0mAQ3ObL3izl9-YOzpXQrGb7U5cTdYr5lBqCvFoWY_-XLGpljObi7rNi71t4M4NgCi3DpF1Z/pub?slide=id.g1ce3aeb9ad5_0_626",
+    "goal": "OOPのメリットを理解する:カプセル化. Classを定義できる:クラスとは, コンストラクタとは, class内のthis. Classからオブジェクトを生成できる:newキーワード, インスタンス化とは"
+  },
+  {
+    "week": "3",
+    "type": "doc",
+    "title": "Class 2",
+    "url": "https://docs.google.com/presentation/d/e/2PACX-1vTJ1omD7tTl0AMpgokRziWi1W9slR9j0ZPVIdvxbN79N-qvPtdKE5fNjcxg8nnh0TBVI85nomy-wdYA/pub?start=false&loop=false&delayms=3000&slide=id.g2116d2e8182_0_0",
+    "goal": "prototype・継承. Classを拡張する:スーパークラス・サブクラス・オーバーライド, ポリモーフィズム"
+  },
+  {
+    "week": "3",
+    "type": "precourse",
+    "title": "stacks-and-queues",
+    "url": "https://github.com/myu-myu-myu/dig-imr-5-precourse.stacks-and-queues-dig",
+    "memo": "OOPをカードゲーム?に実装!"
+  },
+  {
+    "week": "3",
+    "type": "precourse",
+    "title": "polymorphism",
+    "url": "https://github.com/myu-myu-myu/dig-imr-5-precourse.polymorphism-dig",
+    "memo": "図形の面積を算出するPolymorphismを実装!"
+  },
+  {
+    "week": "3",
+    "type": "doc",
+    "title": "Node.js",
+    "url": "https://docs.google.com/presentation/d/e/2PACX-1vRiH91nupK_AHn7P_aDSnMo6fvjJl8cn2urmJZq_9biwwnzwwcUwOEbdU8P63BQPpwz6l-hdSm0lc-z/pub?slide=id.g729f89c1c0_1_1068",
+    "goal": "Node.js の必要性:Node.jsとは何か, npmとは, トランスパイラの必要性. Node.jsとブラウザ-JavaScriptでのモジュールシステムの違い:moduleとは, require/exports & import/export. テストライブラリを知る:mocha/chai"
+  },
+  {
+    "week": "3",
+    "type": "precourse",
+    "title": "node",
+    "url": "https://github.com/myu-myu-myu/dig-imr-5-precourse.node-dig",
+    "memo": "?"
+  },
+  {
+    "week": "3",
+    "type": "doc",
+    "title": "リポジトリの構成",
+    "url": "https://docs.google.com/presentation/d/e/2PACX-1vTGQkumWmqtKOGrphdb8vM9MVb-FwIZqlzuSC7kIeFkPDXSYF51PywrL77bWkT4hQxVT9Eh0zjWFD2e/pub?slide=id.g1acda2224b0_0_0",
+    "goal": "npm initで生成されたファイルの役割:package.json. npm installで生成されたファイルの役割:node_modules, package-lock.json/yarn.lock. git initで生成されたファイルの役割:.gitignore/.git. その他のファイルの役割:.env/README.md. 抑えたいコマンド:npm init/npm install/--save-dev/-D/npm run/npx/git init. ライブラリのインストール方法"
+  },
+  {
+    "week": "3",
+    "type": "doc",
+    "title": "テスト駆動開発 TDD",
+    "url": "https://docs.google.com/presentation/d/e/2PACX-1vStVnhQubHHyIRtt7H8PVVF5ing5auCC5QxJNNhSkTCj9cSH-J174M9fGNBUW3fFsJHjZ8y_M4uGVqH/pub?slide=id.g22cae6d0036_0_11",
+    "goal": "TDDとは:TDDのワークフロー, 最小限のコードとは, テストが必要な理由を理解する. BDDとは:BDDでテストをかけるようになる, Jasmine/mocha/chai, spec/suite/Matchar"
+  },
+  {
+    "week": "3",
+    "type": "ref",
+    "title": "TDD 1-1 Youtube",
+    "url": "https://youtu.be/E4gYQWq3m-Q?si=t4ox5mECuA0b9wpr"
+  },
+  {
+    "week": "3",
+    "type": "ref",
+    "title": "TDD 1-2 Youtube",
+    "url": "https://youtu.be/RAAtHw_sK5M?si=pmjSwcbD2rQ_uBks"
+  },
+  {
+    "week": "3",
+    "type": "ref",
+    "title": "TDD 1-3 Youtube",
+    "url": "https://youtu.be/BhwJ28MDDi8?si=d3PCkpTFVL0bA9HZ"
+  },
+  {
+    "week": "3",
+    "type": "ref",
+    "title": "TDD 1-4 Youtube",
+    "url": "https://youtu.be/P2SNY0LUDqA?si=cP6ELbZKo58VE0Vn"
+  },
+  {
+    "week": "3",
+    "type": "doc",
+    "title": "非同期処理 Promise",
+    "url": "https://docs.google.com/presentation/d/e/2PACX-1vTVWM4TO0XE6E7OeMR-1qtz7cPAVh6msBTJQtPXbfn3uRsvJV50Nmxs8rT1fy45INxJCYY_6b5fVWaF/pub?slide=id.g8445d47721_2_25",
+    "goal": "同期・非同期の概念. Callback. Promise:new Promise(), 3つのstate, all/then/catch/Promise.all(). async/awaitの使い方. イベントループ"
+  },
+  {
+    "week": "3",
+    "type": "ref",
+    "title": "Promise 1-1 Youtube",
+    "url": "https://youtu.be/9DnWRaR2i0U?si=JXeomtxVfqf48R2m"
+  },
+  {
+    "week": "3",
+    "type": "ref",
+    "title": "Promise 1-2 Youtube",
+    "url": "https://youtu.be/kygJPnhLSAk?si=QRN2pYDzwHb-tR0w"
+  },
+  {
+    "week": "3",
+    "type": "ref",
+    "title": "Promise 1-3 Youtube",
+    "url": "https://youtu.be/A1a4eMF36jQ?si=-R0hauf7YrjMKI1R"
+  },
+  {
+    "week": "3",
+    "type": "ref",
+    "title": "Promise 1-4 Youtube",
+    "url": "https://youtu.be/PSVZJ0ZgZsw?si=dWMDiXAyjcLcKggF"
+  },
+  {
+    "week": "3",
+    "type": "ref",
+    "title": "Promise 1-5 Youtube",
+    "url": "https://youtu.be/pRLTp6dfmzQ?si=XoubisJos9C36hu8"
+  },
+  {
+    "week": "3",
+    "type": "mini",
+    "title": "amazonian-async",
+    "url": "https://github.com/myu-myu-myu/dig-imr-5-mini.amazonian-async-dig",
+    "memo": "?"
+  },
+  {
+    "week": "3",
+    "type": "mini",
+    "title": "populatron",
+    "url": "https://github.com/myu-myu-myu/dig-imr-5-mini.populatron-dig",
+    "memo": "csvを読み込んで総人口を算出"
+  },
+  {
+    "week": "3",
+    "type": "doc",
+    "title": "外部データの取得",
+    "url": "https://docs.google.com/presentation/d/e/2PACX-1vTq6pFxTVdpu-Q9Fw9bl-E4iXtsbxJgnztpou50-h22rlcvKCyA9gQ5MIh9tKJ_FMR4zDZkQaB-ksRW/pub?slide=id.p",
+    "goal": "JSONとは:JSONファイル. APIとは:APIとライブラリの違い, Web APIとは, fetch()"
+  },
+  {
+    "week": "3",
+    "type": "mini",
+    "title": "fetch-pokemon",
+    "url": "https://github.com/myu-myu-myu/dig-imr-5-mini.fetch-pokemon-dig",
+    "memo": "Pokemon API!"
+  },
+  {
+    "week": "3",
+    "type": "doc",
+    "title": "デバッグ",
+    "url": "https://docs.google.com/presentation/d/e/2PACX-1vTXgiUOR08QEqfuuXNuLeg2zib_79_e6j8RrOVWnC6H8VnCxZXexsE3bqCMCi61YQkldnF2jL7tSUue/pub?slide=id.g22cba7bf5be_0_0",
+    "goal": "VS Codeのデバッガーツールを使えるようになる:launch.jsonファイルの作り方, ブレークポイント/ポーズ/ステップオーバー/ステップイン/ステップアウト/リスタート/ストップ, ウォッチ式. 便利なconsoleオブジェクトのメソッド:log/error/table etc"
+  },
+  {
+    "week": "3",
+    "type": "ref",
+    "title": "Debugging 1-1 Youtube",
+    "url": "https://youtu.be/6s_jmrIoIqQ?si=KS5FxZdVocrMDzSl"
+  },
+  {
+    "week": "3",
+    "type": "ref",
+    "title": "Debugging 1-2 Youtube",
+    "url": "https://youtu.be/O1zWGD74UQI?si=yiBRD_lgWUjVBHPY"
+  },
+  {
+    "week": "3",
+    "type": "doc",
+    "title": "コードレビューのやり方",
+    "url": "https://docs.google.com/presentation/d/e/2PACX-1vTjvo2naKzYH0yaJ6QSuVDOtL-nlFZAkiVEfiIJplmT_HKbBESzwNbnfVNve38g4zoU_lOH3ioZ4ajM/pub?slide=id.g729f89c1c0_1_1068"
+  },
+  {
+    "week": "3",
+    "type": "doc",
+    "title": "コードレビューチェックリスト（基礎）",
+    "url": "https://dig.codechrysalis.io/view/dig-btc-5/6796/x6m89skvcu2z"
+  },
+  {
+    "week": "3",
+    "type": "doc",
+    "title": "HTTP-Webのしくみ",
+    "url": "https://docs.google.com/presentation/d/e/2PACX-1vQMk9W2zekC42FEUwwKhWo9kujCYjq11JPxn71tJSnbKlvPqlwnIsdSohqfTaOM5BRKhARv4ZXGgki3/pub?slide=id.g181af1f9de8_1_0",
+    "goal": "HTTPリクエストとHTTPレスポンス:HTTPプロトコルとは, クライアント・サーバーの役割, フルスタックとは何を指すのか, ドメイン・パス・メソッド・ステータスコード・コンテンツタイプ・コンテンツ（ボディ）. HTTPメソッド:GET/PUT/POST/DELETE. PostmanでHTTPリクエストを送る:Postmanの使い方, HTTPリクエストの送信方法. HTTPとHTTPS:HTTPとHTTPSの違い"
+  },
+  {
+    "week": "3",
+    "type": "lecture",
+    "title": "http",
+    "url": "https://github.com/myu-myu-myu/dig-imr-5-lecture.http",
+    "memo": "Hello Postman!"
+  },
+  {
+    "week": "4",
+    "type": "assessment",
+    "title": "assessment-2",
+    "url": "https://github.com/myu-myu-myu/dig-imr-5-dig.assessment-2",
+    "memo": "非同期関数のテスト。撃沈。。"
+  },
+  {
+    "week": "4",
+    "type": "doc",
+    "title": "HTTPサーバーの作成",
+    "url": "https://docs.google.com/presentation/d/e/2PACX-1vQJPdXF5tjOypj7-CobsFIGmlt8RttgvRaVolk3N97peM109MFq4frdefEKNcH0KQozg7ZjTSX-LKds/pub?slide=id.g1cd0e1d408c_0_186",
+    "goal": "サーバーの仕組みを知る:クライアント, サーバー, ポート番号, localhost. Expressを使用したサーバーのセットアップ:Expressとは, .use()/.listen()/.static(), Router, Middleware, 静的と動的, res.status()/res.send( )/.setHeader()/.get()/.post(), Expressリクエストオブジェクト, Expressレスポンスオブジェクト, クエリ文字列, req.params（ルート/パスパラメータ）. nodemonを使う. HTTPメソッド:GET/PUT/PATCH/DELETE/POST"
+  },
+  {
+    "week": "4",
+    "type": "sprint",
+    "title": "express-http",
+    "url": "https://github.com/myu-myu-myu/dig-imr-5-sprint.express-http",
+    "memo": "Expressでrouting!"
+  },
+  {
+    "week": "4",
+    "type": "sprint",
+    "title": "express",
+    "url": "https://github.com/myu-myu-myu/dig-imr-5-sprint.express",
+    "memo": "ExpressでLINE作成!"
+  },
+  {
+    "week": "4",
+    "type": "doc",
+    "title": "コンジュラー vs. スクライブ",
+    "url": "https://docs.google.com/presentation/d/e/2PACX-1vRGJCBzh4I-VKI9C_gGBJsb2IhKbkASjAjIZpjlXyMR_k3jEWhPXSwyY3SF4VlDU_ZyVsJMjWa2HSD6/pub?start=false&loop=false&delayms=3000&slide=id.g8a6dff2f7a_0_59"
+  },
+  {
+    "week": "4",
+    "type": "doc",
+    "title": "REST",
+    "url": "https://docs.google.com/presentation/d/e/2PACX-1vRA3b2DsefTIASYv1aPy0lJslBHyyRRKVwmlVgBvmTp2iss06bXrrZXmJ5RJuw4xvboDeaXzLcmHUHW/pub?slide=id.p",
+    "goal": "RESTの概念を知る:RESTfulなAPIとは何か, CRUD. Expressでエンドポイントの作成:HTTPメソッドを適切に利用する, .patch()/.delete(), ステータスコードを使用する. エンドポイントのテストをする:chai-http. 抑えて欲しいキーワード:クエリパラメータ, req.body/req.params/req.query"
+  },
+  {
+    "week": "4",
+    "type": "ref",
+    "title": "REST Youtube",
+    "url": "https://youtu.be/B5HpC-3ITqs?si=Et31uJrN0b6Y9Q5_"
+  },
+  {
+    "week": "4",
+    "type": "sprint",
+    "title": "rest",
+    "url": "https://github.com/myu-myu-myu/dig-imr-5-sprint.rest-dig",
+    "memo": "Pokemon-DBのデータの中身を操作"
+  },
+  {
+    "week": "5",
+    "type": "assessment",
+    "title": "assessment-3",
+    "url": "https://github.com/myu-myu-myu/dig-imr-5-dig.assessment-3",
+    "memo": "expressで実装!"
+  },
+  {
+    "week": "5",
+    "type": "doc",
+    "title": "Database 1",
+    "url": "https://docs.google.com/presentation/d/e/2PACX-1vSpfN5ajA3uAJrQG6QMpl3Hp4LWsLdOnjBk8XEHFtoZa9rbxdMmT_ghpP-Itf7eVZEEN4MabkAAT_Mz/pub?slide=id.g183a097ca6d_1_0",
+    "goal": "データベースとは:データベースを使用する意義. SQLデータベース（RDB）とNoSQLデータベース:2つの違い, 利用される場面と特徴. スキーマデザインについて学ぶ:スキーマとは, エンティティ・属性・データ型・キーの定義, primary key, foreign key, 1対1リレーション, 1対他リレーション, 他対他リレーション, ジャンクションテーブル. PostgresqlでSQLを使う:データベースを作る, テーブルを作る, CREATE/DROP/INSERT/SELECT/DELETE/UPDATE/JOIN etc..., トランザクション"
+  },
+  {
+    "week": "5",
+    "type": "ref",
+    "title": "Database 1-1 Youtube",
+    "url": "https://youtu.be/7_GsbDi6rds?si=GNcerhRbIleAZ9ny"
+  },
+  {
+    "week": "5",
+    "type": "ref",
+    "title": "Database 1-2 Youtube",
+    "url": "https://youtu.be/RZWVnm6pPgY?si=Fl1-UB2erNV25jQD"
+  },
+  {
+    "week": "5",
+    "type": "ref",
+    "title": "Database 1-3 Youtube",
+    "url": "https://youtu.be/agB0Eksvmk4?si=5YUJp4Bx9Revdror"
+  },
+  {
+    "week": "5",
+    "type": "ref",
+    "title": "Database 1-4 Youtube",
+    "url": "https://youtu.be/MioAk9abMQ0?si=ie8qwDcuSQFgzLFm"
+  },
+  {
+    "week": "5",
+    "type": "sprint",
+    "title": "database-part1",
+    "url": "https://github.com/myu-myu-myu/dig-imr-5-sprint.database-part-1-dig",
+    "memo": "Postgresqlにstudents-DBを作成。joinなどでPJT参加状況を表示"
+  },
+  {
+    "week": "5",
+    "type": "doc",
+    "title": "Database 2",
+    "url": "https://docs.google.com/presentation/d/e/2PACX-1vTTS4A61y5L_MN-tlu1-pUeiHKUFDBZivxNaYJmZvQUuP2XWLfEIgauLfww5GbxlPxuo3lPrvvsR02h/pub?slide=id.g124c1f20b98_0_206",
+    "goal": "SQL インジェクションの危険性. knex.js, DBの抽象化, マイグレーションとロールバック:Knex.jsとは, migrationファイルでテーブルを作れるようになる, seedファイルでデータベースにデータを入れられるようになる, knexfileの役割がわかるようになる. 抑えて欲しいキーワード:migration, seed, knexfile, config, クエリビルダー, create()/update()/insert()/select()/join()/where() etc..., productionとdevelopment, rollback"
+  },
+  {
+    "week": "5",
+    "type": "sprint",
+    "title": "knex",
+    "url": "https://github.com/myu-myu-myu/dig-imr-5-sprint.knex-dig",
+    "memo": "migration, seedでcc_store-DBを作成。knexで注文履歴を取得"
+  },
+  {
+    "week": "5",
+    "type": "doc",
+    "title": "State Machine",
+    "url": "https://docs.google.com/presentation/d/e/2PACX-1vQqv2M_xmOP7FIwXMSRBc55srwtew_1laq14j6SW8i2W-CGRfhK-N4fNXYkmOuZ7QmSosz7nbf5TBiK/pub?start=false&loop=false&delayms=3000&slide=id.g2267685033b_0_472",
+    "goal": "ステートマシンを設計できるようになる:ステートの管理方法を知る, ステートマシーンの可視化の方法を知る. 抑えて欲しいキーワード:状態(state), 遷移"
+  },
+  {
+    "week": "5",
+    "type": "doc",
+    "title": "Elevator Project Presentation",
+    "url": "https://docs.google.com/presentation/d/e/2PACX-1vSEQjQmLp_CETiUw-BV-l0NtGbpKRSoTpTjl8k1jINq69t_LJW6aNbjtYVZYOxPSELylpIKaQC3U--x/pub?start=false&loop=false&delayms=3000&slide=id.g249a7c75b7d_0_204"
+  },
+  {
+    "week": "5",
+    "type": "sprint",
+    "title": "state-machine",
+    "url": "https://github.com/myu-myu-myu/dig-imr-5-sprint.state-machine",
+    "memo": "宇宙へ飛び立つエレベータ〜"
+  },
+  {
+    "week": "6",
+    "type": "assessment",
+    "title": "assessment-4",
+    "url": "https://github.com/myu-myu-myu/dig-imr-5-dig.assessment-4",
+    "memo": "migration, seedでボロボロに。。。"
+  },
+  {
+    "week": "6",
+    "type": "doc",
+    "title": "React 1",
+    "url": "https://docs.google.com/presentation/d/e/2PACX-1vQrWMbmcvLJELldiyeJUian-bHGO6-tKBCRiqyRqCgA6v-X-SOz8CMkuvDX2FFjelctnkNkX34b207X/pub?slide=id.g12dead66d6b_0_0",
+    "goal": "Reactとは:仮想DOM. JSX、抑えて欲しいキーワード:JSXをどこに、どのように記述するか. className. onChange/onClick/onBlur/onSubmit/onError. コンポーネント(components)とは:Class vs Functionの書き方. Hooks:useState/useEffect"
+  },
+  {
+    "week": "6",
+    "type": "ref",
+    "title": "React 1-1 Youtube",
+    "url": "https://youtu.be/vcR_ALfN8vI?si=NU-2q-wlmDkdSv3N"
+  },
+  {
+    "week": "6",
+    "type": "ref",
+    "title": "React 1-2 Youtube",
+    "url": "https://youtu.be/rNFjcbUiMhI?si=1vt67vZFhkOqgCFw"
+  },
+  {
+    "week": "6",
+    "type": "doc",
+    "title": "React 2",
+    "url": "https://docs.google.com/presentation/d/e/2PACX-1vR3I3mrtkAB5r9BGXUOBaKAineyJnXUF4-ZkKXb4m7hrQntH5C0Kw4klabyn3NfYl6VQRoHaBYKqhTa/pub?slide=id.g12ce2fb796b_0_0",
+    "goal": "ネストしたコンポーネント:親コンポーネント・子コンポーネント. Reactアーキテクチャ:単一責任の原則とは, propsを渡す, 単一方向データフロー, propsとstateの違い. Reactでプロジェクトを始める方法"
+  },
+  {
+    "week": "6",
+    "type": "ref",
+    "title": "React 2-1 Youtube",
+    "url": "https://youtu.be/104WqaRsSRc?si=dNbO4lM1fo8Ewuce"
+  },
+  {
+    "week": "6",
+    "type": "ref",
+    "title": "React 2-2 Youtube",
+    "url": "https://youtu.be/NatWbBK41Y8?si=FXuogxb7TjxW_211"
+  },
+  {
+    "week": "6",
+    "type": "ref",
+    "title": "React 2-3 Youtube",
+    "url": "https://youtu.be/QLKvIrrcduQ?si=KlBM3kUTigr_xEtx"
+  },
+  {
+    "week": "6",
+    "type": "lecture",
+    "title": "react",
+    "url": "https://github.com/myu-myu-myu/dig-imr-5-lecture.react-dig"
+  },
+  {
+    "week": "6",
+    "type": "sprint",
+    "title": "react",
+    "url": "https://github.com/myu-myu-myu/dig-imr-5-sprint.react-dig",
+    "memo": "aws S3, useState, useRefを使って画像表示"
+  },
+  {
+    "week": "6",
+    "type": "doc",
+    "title": "TypeScript",
+    "url": "https://docs.google.com/presentation/d/e/2PACX-1vQeiA6QxUp7J5A-IeIAHdZzMIWdCZ0LLUKY4Wn3bo-Gkkjstf6kgZKGR7ZmSBoG4HkqPTPxwcW9rKb8/pub?slide=id.p",
+    "goal": "TypeScriptのメリットは？:JSで起きるエラーとTypeScriptのメリット. 型:TypeScriptの型の記述方式, 型推論とは, Union型, 様々な型(number/string/boolian/null/undefined/配列/オブジェクト), interface/class, any/void. トランスパイルとは"
+  },
+  {
+    "week": "6",
+    "type": "doc",
+    "title": "React ✖️ TypeScript",
+    "url": "https://docs.google.com/presentation/d/e/2PACX-1vTsudWUW-4uvA80HWdX1xx9xuXLXmIRnAF0Mt7mda0nHgg-5D72gXtQqzcDtZjbnBv-aVp-yQOUd8Gu/pub?slide=id.p",
+    "goal": "ReactでTypeScriptを書く. useStateの型推論. <ここに型> ジェネリクス. 関数コンポーネントの持つ型-React.FC, type Propsの書き方"
+  },
+  {
+    "week": "6",
+    "type": "sprint",
+    "title": "react-typescript",
+    "url": "https://github.com/myu-myu-myu/dig-imr-5-sprint.react-typescript-dig",
+    "memo": "蝉の鳴き声予報"
+  },
+  {
+    "week": "6",
+    "type": "doc",
+    "title": "継続的インテグレーション(CI)",
+    "url": "https://docs.google.com/presentation/d/e/2PACX-1vSXfn1zfu-OnA32f4eyALzVhU5q-fDwJIwyMxzmYnnt__sumlqreKuYINBNwixhd_yEHmzGI5qRK7ms/pub?start=false&loop=false&delayms=3000&slide=id.g1cb700a7d43_0_170"
+  },
+  {
+    "week": "6",
+    "type": "ref",
+    "title": "CI/CDとは Redhat",
+    "url": "https://www.redhat.com/ja/topics/devops/what-is-ci-cd"
+  },
+  {
+    "week": "6",
+    "type": "ref",
+    "title": "What is CICD? Youtube",
+    "url": "https://youtu.be/N9KbmHhesmE?si=Eo3YVkup0TdnANHe"
+  },
+  {
+    "week": "6",
+    "type": "sprint",
+    "title": "fullstack-deployment",
+    "url": "https://github.com/myu-myu-myu/dig-imr-5-sprint.fullstack-deployment-dig",
+    "memo": "Render.comにデプロイしてスマイルを表示"
+  },
+  {
+    "week": "7",
+    "type": "assessment",
+    "title": "assessment-5",
+    "url": "https://github.com/myu-myu-myu/dig-imr-5-dig.assessment-5",
+    "memo": "TodoリストをReactで作成"
+  },
+  {
+    "week": "7",
+    "type": "doc",
+    "title": "認証とログイン",
+    "url": "https://docs.google.com/presentation/d/e/2PACX-1vSiW2VafhUmhB3aQNnwDo8N2aTEAg8Ormlf3oZ71AdxdhNqlL_G3iWBrDOZXQNLkp43Puei4Rqng_ZO/pub?start=false&loop=false&delayms=3000&slide=id.g27f867b4b50_1_288"
+  },
+  {
+    "week": "7",
+    "type": "doc",
+    "title": "ソロプロジェクト 要件",
+    "url": "https://drive.google.com/file/d/1Bn-dUbxJYFjo3mTFziBodfwM5DfVVmJ_/view"
+  }
+]

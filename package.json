@@ -1,0 +1,30 @@
+{
+  "name": "solo-back",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon ./api.js",
+    "test": "mocha ./src/test --exit",
+    "make": "knex migrate:make     --knexfile src/db/knexfile.js",
+    "late": "knex migrate:latest   --knexfile src/db/knexfile.js",
+    "back": "knex migrate:rollback --knexfile src/db/knexfile.js",
+    "seed": "knex seed:run         --knexfile src/db/knexfile.js",
+    "build": "npm install",
+    "start": "node ./api.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "chai": "^4.3.10",
+    "chai-http": "^4.4.0",
+    "mocha": "^10.2.0",
+    "nodemon": "^3.0.1"
+  },
+  "dependencies": {
+    "dotenv": "^16.3.1",
+    "express": "^4.18.2",
+    "knex": "^3.0.1",
+    "pg": "^8.11.3"
+  }
+}
