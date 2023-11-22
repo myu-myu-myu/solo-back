@@ -39,7 +39,7 @@ const setupServer = () => {
       res.status(200).send(result);
     } catch (error) {
       console.error(error.message);
-      res.status(444).send(result);
+      res.status(444).send('No DB yet???');
     }
   });
 
