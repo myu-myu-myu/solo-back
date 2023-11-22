@@ -11,10 +11,10 @@ module.exports = {
       database: process.env.POSTGRES_DB || 'solo',
     },
     migrations: {
-      directory: './server/db/migrations',
+      directory: './db/migrations',
     },
     seeds: {
-      directory: './server/db/seeds',
+      directory: './db/seeds',
     },
   },
 
@@ -23,10 +23,10 @@ module.exports = {
     connection: {
       database: process.env.DATABASE_URL,
       migrations: {
-        directory: './server/db/migrations',
+        directory: './db/migrations',
       },
       seeds: {
-        directory: './server/db/seeds',
+        directory: './db/seeds',
       },
     },
   },

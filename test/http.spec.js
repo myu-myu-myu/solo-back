@@ -3,7 +3,7 @@ const expect = chai.expect;
 const chaiHttp = require('chai-http');
 chai.use(chaiHttp);
 
-const { setupServer } = require('../../api');
+const { setupServer } = require('../index');
 const app = setupServer();
 
 describe.only('2. Express(API)のテスト', () => {

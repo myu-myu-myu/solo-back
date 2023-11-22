@@ -1,5 +1,5 @@
 const { expect, assert } = require('chai');
-const knex = require('../db/knex');
+const knex = require('../knex');
 const model = {
   getAll(table, _limit = 100) {
     return knex(table).select().limit(_limit);

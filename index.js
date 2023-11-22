@@ -5,24 +5,24 @@ const setupServer = () => {
   require('dotenv').config();
   console.log('process.env : ', process.env);
 
-  // app.use((req, res, next) => {
-  //   const origin = req.headers.origin;
-  //   console.log('origin : ', origin);
-  //   if (origin === process.env.FRONTEND_ORIGIN || 'http://localhost:3000') {
-  //     res.header('Access-Control-Allow-Origin', origin);
-  //     res.header(
-  //       'Access-Control-Allow-Headers',
-  //       'X-Requested-With, X-HTTP-Method-Override, Content-Type, Accept'
-  //     );
-  //     res.header('Access-Control-Allow-Methods', 'PUT, DELETE, OPTIONS');
-  //     res.header('Access-Control-Allow-Credentials', true);
-  //   }
-  //   if ('OPTIONS' == req.method) {
-  //     res.send(204); // 204: No Content
-  //   } else {
-  //     next();
-  //   }
-  // });
+  app.use((req, res, next) => {
+    const origin = req.headers.origin;
+    console.log('origin : ', origin);
+    if (origin === process.env.FRONTEND_ORIGIN || 'http://localhost:5173') {
+      res.header('Access-Control-Allow-Origin', origin);
+      res.header(
+        'Access-Control-Allow-Headers',
+        'X-Requested-With, X-HTTP-Method-Override, Content-Type, Accept'
+      );
+      res.header('Access-Control-Allow-Methods', 'PUT, DELETE, OPTIONS');
+      res.header('Access-Control-Allow-Credentials', true);
+    }
+    if ('OPTIONS' == req.method) {
+      res.send(204); // 204: No Content
+    } else {
+      next();
+    }
+  });
   app.use(express.json());
   app.use(express.urlencoded({ extended: true }));
   // app.use('/', express.static(__dirname + '/browser/index'));
@@ -40,7 +40,7 @@ const setupServer = () => {
       res.status(200).send(result);
     } catch (error) {
       console.error(error.message);
-      res.status(444).send('No DB yet???');
+      res.status(444).send('No DB created yet???');
     }
   });
 
@@ -88,5 +88,5 @@ require('dotenv').config();
 const PORT = process.env.PORT || 8000;
 const server = setupServer();
 server.listen(PORT, () => {
-  console.log(`listening... http://localhost:${PORT}`);
+  console.log(`listening... PORT:${PORT}`);
 });
