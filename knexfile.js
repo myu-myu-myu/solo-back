@@ -21,9 +21,11 @@ module.exports = {
   production: {
     client: 'pg',
     connection: {
-      host: 'dpg-clehuok15k1s73acr97g-a',
+      hostname: 'dpg-clehuok15k1s73acr97g-a',
       port: '5432',
-      database: process.env.DATABASE_URL,
+      database: process.env.DATABASE_URL || 'solo_yczr',
+      username: 'user',
+      password: 'C0fuFGfICflGvKTdLOATkHB82WKjeuSe',
       migrations: {
         directory: './migrations',
       },
