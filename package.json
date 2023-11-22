@@ -6,10 +6,10 @@
   "scripts": {
     "dev": "nodemon ./index.js",
     "test": "mocha ./test --exit",
-    "make": "knex migrate:make     ",
-    "late": "knex migrate:latest   ",
-    "back": "knex migrate:rollback ",
-    "seed": "knex seed:run         ",
+    "make": "knex migrate:make",
+    "late": "knex migrate:latest",
+    "back": "knex migrate:rollback",
+    "seed": "knex seed:run",
     "build": "npm install",
     "start": "node ./index.js"
   },
